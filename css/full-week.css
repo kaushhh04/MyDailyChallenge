@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background-color: rgb(248, 238, 226);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Lato", monospace;
+  font-size: 65px;
+  margin: 0px;
+}
+
+p {
+  font-family: "Roboto Mono", sans-serif;
+}
+
+#description {
+  margin: 0px;
+}
+
+a {
+  padding: 10px 48px;
+  background-color: rgb(231, 171, 171);
+  color: rgb(58, 26, 88);
+  font-family: "Roboto Mono", sans-serif;
+  text-decoration: none;
+  font-size: 35px;
+  border-radius: 15px;
+  border: 2px solid rgb(231, 171, 171);
+  display: inline-block;
+  box-shadow: -10px 10px;
+  margin: 45px;
+}
+
+a:hover {
+  padding: 10px 48px;
+  background-color: rgb(58, 26, 88);
+  color: rgb(231, 171, 171);
+  text-decoration: none;
+  font-size: 35px;
+  border-radius: 15px;
+  border: 2px solid rgb(58, 26, 88);
+  display: inline-block;
+  box-shadow: -10px 10px;
+  margin: 45px;
+}
+
+li {
+  list-style: none;
+  margin: 25px;
+  background-color: rgb(255, 222, 222);
+  border-radius: 30px 15px;
+  padding: 15px;
+  box-shadow: -7px 7px;
+}
+
+ol {
+  padding: 10px;
+  width: 500px;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: rgb(199, 105, 42);
+  font-family: "Lato", monospace;
+}
+
+.main-goal {
+  background-color: rgb(230, 205, 253);
+}
+
+.main-goal h2 {
+  color: rgb(58, 26, 88);
+}
+
+/* ol button {
+  background-color: rgb(231, 171, 171);
+  border: 0;
+  padding: 20px;
+} */
